@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Vyniest smeti",
+      "done": false
+    },
+    {
+      "id": 2,
+      "text": "upratat kuchynu",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "zahrat na steame",
+      "done": false
+    },
+    {
+      "id": 4,
+      "text": "kychnut si",
+      "done": true
+    },
+    {
+      "id": 5,
+      "text": "uvarit si caj",
+      "done": true
+    }
+  ]
+}
